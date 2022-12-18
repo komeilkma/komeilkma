@@ -11,7 +11,7 @@ Technical information and monitoring reports, connection stability and testing o
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=komeilkma&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komeilkma&&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komeilkma&&layout=compact&langs_count=10&card_width=765)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
