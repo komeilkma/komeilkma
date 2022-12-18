@@ -1,8 +1,8 @@
 # Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Komeil Majidi and I'm a Full-Stack Developer.a veteran game developer stuck in the galaxy of embedded development. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-
+![](images/terminator-samurai.png)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=komeilkma&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komeilkma&&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komeilkma&&layout=compact&langs_count=10)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
