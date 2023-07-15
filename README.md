@@ -1,5 +1,5 @@
 # Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Komeil Majidi and I'm a Full-Stack Developer.a veteran game developer stuck in the galaxy of embedded development. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Komeil Majidi, and I'm a Full-Stack Developer, a veteran game developer who is currently immersed in the galaxy of embedded development. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <img src="images/terminatorsamurai.png" width=300 align=left>
 I'm developing an untraceable, multi-layered VPN protocol that avoids blocking as much as possible through obfuscation.
